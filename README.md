@@ -1,2 +1,4 @@
-# JS30-Slide-In-On-Scroll
-Article images slide in on scroll using Vanilla JS
+# [JS30 Slide-In On Scroll](https://scottgall.github.io/JS30-City-State-Search/)
+Images that slide into the screen when user scrolls to their position in an article using Vanilla JS. 
+
+From [Wes Bos's](https://wesbos.com/) [JavaScript30](https://javascript30.com/) course.
